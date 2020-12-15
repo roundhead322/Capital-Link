@@ -1,10 +1,10 @@
 
-# Capital Link Lending & Borrow
+# Capital Link Lending & Borrowing
 
 Conflux Network cross-chain asset lending & borrowing protocol.
 
 
-The problem: 2020 has been marked by explosive growth in the NFT and DEFI sectors. NFT’s have already begun changing hands for huge valuations of hundreds of thousands of dollars. This growth has occurred despite minimal public exposure to the idea of property rights over digital objects. The development of blockchain technology along with increased legitimisation of cryptocurrency in general, offers huge potential for the growth and acceptance of NFT’s. However, the non-fungible nature of these tokens means that any capital invested in them is locked into the NFT until such time that the NFT is sold. That can be problematic to investor’s who might feel forced to choose between buying an NFT or a cryptocurrency.
+The problem: 2020 has been marked by explosive growth in the NFT and DEFI sectors. NFT’s have already begun changing hands for huge valuations of hundreds of thousands of dollars. This growth has occurred despite minimal public exposure to the idea of property rights over digital objects. The development of blockchain technology along with increased legitimisation of cryptocurrency in general, offers huge potential for the growth and acceptance of NFT’s. However, the non-fungible nature of these tokens means that any capital invested in them is locked into the NFT until such time that the NFT is sold. That can be problematic to investor’s who might feel forced to choose between buying an NFT or a cryptocurrency. For example, the previous 10 sales of single plots of land from the Sandbox game averaged 0.2157 ETH each on Opensea. For simplicity sake, let us assume that all 166,464 of the single land parcels had been sold. That's 35,906 ETH ($21,373,405) of liquidity locked inside just that one category of NFT on that one gaming platform.
 
 The solution: We would provide a means through which people could deposit their Ethereum NFT’s into a contract and be able to use it as collateral to borrow on Conflux. The borrower could then borrow an amount up to the max of the sum of all NFT’s they deposited. We could maybe start by taking a targeted approach to the NFT types we would support on the platform. 
 
