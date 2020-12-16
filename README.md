@@ -1,5 +1,5 @@
 
-# LiquiFI
+# LiquiFi
 
 Conflux Network cross-chain asset lending & borrowing protocol.
 
