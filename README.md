@@ -1,5 +1,5 @@
 
-# Capital Link Lending & Borrowing
+# LiquiFI
 
 Conflux Network cross-chain asset lending & borrowing protocol.
 
